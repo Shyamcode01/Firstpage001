@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shyamcode01/React1.git/static/css/main.d1a68d1a.css",
+    "main.js": "/Shyamcode01/React1.git/static/js/main.54ab70f2.js",
+    "static/media/slide7.jpg": "/Shyamcode01/React1.git/static/media/slide7.8ff7c1501b6efe007e93.jpg",
+    "static/media/slide (2).png": "/Shyamcode01/React1.git/static/media/slide (2).43a06c8f3818679afab7.png",
+    "static/media/slide (1).png": "/Shyamcode01/React1.git/static/media/slide (1).bc9a864b5517cb5a4141.png",
+    "index.html": "/Shyamcode01/React1.git/index.html",
+    "main.d1a68d1a.css.map": "/Shyamcode01/React1.git/static/css/main.d1a68d1a.css.map",
+    "main.54ab70f2.js.map": "/Shyamcode01/React1.git/static/js/main.54ab70f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1a68d1a.css",
+    "static/js/main.54ab70f2.js"
+  ]
+}
