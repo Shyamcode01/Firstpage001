@@ -29,7 +29,7 @@ html{
     display: none;
     user-select: none;
 }
-.humber:hover{
+.humber:active{
     color: rgb(29, 23, 23);
     background-color: rgb(250, 244, 244);
     border-radius: 10px;

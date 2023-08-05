@@ -10,14 +10,14 @@ humber.addEventListener('click',(()=>{
 let Slider=[
     {
         id:'S1',
-        image:'photo/slide (2).jpg',
+        image:'Photo/slide (2).jpg',
         title1:'Simple',
         title2:'Service Available',
         paragraf:'Service is a word that we always use in our daily lives. It acts as an important role in many businesses and is a leading indicator to'
     },
     {
         id:'S2',
-        image:'photo/slide (3).jpg',
+        image:'Photo/slide (3).jpg',
         title1:'New',
         title2:'Service Available',
         paragraf:'Service is a word that we always use in our daily lives. It acts as an important role in many businesses and is a leading indicator to'
